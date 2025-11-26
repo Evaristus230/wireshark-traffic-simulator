@@ -44,3 +44,4 @@ This tool lets you **practice capturing and analyzing these flows** — safely, 
 git clone https://github.com/Evaristus230/wireshark-traffic-simulator
 cd wireshark-traffic-simulator
 pip3 install -r requirements.txt
+sudo python3 enterprise_cred_simulator.py
